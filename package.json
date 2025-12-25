@@ -23,7 +23,7 @@
   "dependencies": {
     "@raycast/api": "^1.100.1",
     "@raycast/utils": "^1.17.0",
-    "tex-math-parser": "^2.0.4"
+    "tex-math-parser": "^2.0.5"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.0.4",
